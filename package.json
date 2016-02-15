@@ -1,0 +1,19 @@
+{
+  "name": "implicit",
+  "version": "0.0.1",
+  "description": "Community powered by news and articles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vineet-sinha/implicit.git"
+  },
+  "author": "Vineet Sinha <vineet.sinha@gmail.com>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vineet-sinha/implicit/issues"
+  },
+  "homepage": "https://github.com/vineet-sinha/implicit#readme"
+}
