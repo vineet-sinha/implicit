@@ -4,7 +4,8 @@
   "description": "Community powered by news and articles",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,15 @@
   "bugs": {
     "url": "https://github.com/vineet-sinha/implicit/issues"
   },
-  "homepage": "https://github.com/vineet-sinha/implicit#readme"
+  "homepage": "https://github.com/vineet-sinha/implicit#readme",
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "hbs": "~3.1.0",
+    "less-middleware": "1.0.x",
+    "morgan": "~1.6.1",
+    "serve-favicon": "~2.3.0"
+  }
 }
